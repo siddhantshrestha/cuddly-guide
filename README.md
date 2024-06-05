@@ -1,2 +1,2 @@
 # cuddly-guide
-This is an 
+This is a description
